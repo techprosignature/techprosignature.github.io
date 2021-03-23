@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<svg width="720" height="720" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>Logo</title>
+ <defs>
+  <linearGradient id="svg_27" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#25ff88" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#00b050" stop-opacity="0.992188"/>
+  </linearGradient>
+  <style>
+    svg{
+    animation-direction: alternate;
+    animation-name: Chip;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    }
+    @keyframes Chip{
+    from {filter: brightness(1);}
+    to {filter: brightness(1.5);}
+  </style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="360" cy="360" fill="#000000" fill-opacity="0" id="svg_32" r="352.5" stroke="url(#svg_27)" stroke-width="15"/>
+   <rect fill="#00b050" height="110" id="svg_12" rx="15" ry="15" stroke="#00b050" width="380" x="170" y="440"/>
+   <rect fill="#00ff88" height="110" id="svg_10" rx="15" ry="15" stroke="#00ff88" width="380" x="170" y="170"/>
+   <rect fill="#00e575" height="95" id="svg_13" stroke="#00e575" width="380" x="170" y="263"/>
+   <rect fill="#00ff88" height="20" id="svg_17" rx="10" ry="10" stroke="#00ff88" width="70" x="539" y="210"/>
+   <rect fill="#00e575" height="20" id="svg_11" rx="10" ry="10" stroke="#00e575" width="70" x="539" y="305"/>
+   <rect fill="#00ca63" height="20" id="svg_15" rx="10" ry="10" stroke="#00ca63" width="70" x="539" y="400"/>
+   <rect fill="#00b050" height="20" id="svg_16" rx="10" ry="10" stroke="#00b050" width="70" x="539" y="485"/>
+   <rect fill="#00b050" height="20" id="svg_18" rx="10" ry="10" stroke="#00b050" width="70" x="111" y="485"/>
+   <rect fill="#00ca63" height="20" id="svg_19" rx="10" ry="10" stroke="#00ca63" width="70" x="111" y="400"/>
+   <rect fill="#00e575" height="20" id="svg_20" rx="10" ry="10" stroke="#00e575" width="70" x="111" y="305"/>
+   <rect fill="#00ff88" height="20" id="svg_21" rx="10" ry="10" stroke="#00ff88" width="70" x="111" y="210"/>
+   <rect fill="#00ff88" height="70" id="svg_22" rx="10" ry="10" stroke="#00ff88" width="20" x="210" y="111"/>
+   <rect fill="#00ff88" height="70" id="svg_23" rx="10" ry="10" stroke="#00ff88" width="20" x="305" y="111"/>
+   <rect fill="#00ff88" height="70" id="svg_24" rx="10" ry="10" stroke="#00ff88" width="20" x="400" y="111"/>
+   <rect fill="#00ff88" height="70" id="svg_25" rx="10" ry="10" stroke="#00ff88" width="20" x="485" y="111"/>
+   <rect fill="#00b050" height="70" id="svg_26" rx="10" ry="10" stroke="#00b050" width="20" x="210" y="539"/>
+   <rect fill="#00ca63" height="95" id="svg_14" stroke="#00ca63" width="380" x="170" y="358"/>
+   <rect fill="#00b050" height="70" id="svg_28" rx="10" ry="10" stroke="#00b050" width="20" x="305" y="539"/>
+   <rect fill="#00b050" height="70" id="svg_29" rx="10" ry="10" stroke="#00b050" width="20" x="400" y="539"/>
+   <rect fill="#00b050" height="70" id="svg_30" rx="10" ry="10" stroke="#00b050" width="20" x="485" y="539"/>
+   <g>
+   <path xmlns="http://www.w3.org/2000/svg" transform="translate(-280,0)" d="M624.376 398.671C603.107 390.078 592.735 365.645 601.329 344.376 609.922 323.107 634.355 312.735 655.624 321.329 676.893 329.922 687.265 354.355 678.671 375.624 670.078 396.893 645.645 407.265 624.376 398.671ZM736.776 370.985C737.706 363.114 737.54 355.175 736.469 347.62L754.291 326.705 743.344 300.915 715.919 299.206C710.906 293.057 705.31 287.422 699.002 282.625L697.159 255.639 671.378 245.223 650.985 263.224C643.114 262.294 635.175 262.46 627.619 263.531L606.705 245.709 580.915 256.656 579.206 284.081C573.057 289.094 567.422 294.69 562.624 300.998L535.639 302.841 525.223 328.622 543.224 349.015C542.293 356.886 542.46 364.825 543.531 372.38L525.709 393.295 536.656 419.085 564.081 420.794C569.094 426.943 574.69 432.578 580.998 437.375L583.163 464.491 608.944 474.907 629.337 456.906C637.208 457.837 645.147 457.671 652.703 456.599L673.617 474.421 699.408 463.474 701.116 436.049C707.265 431.036 712.9 425.441 717.698 419.132L744.813 416.967 755.229 391.186 736.776 370.985Z" fill="#FFFFFF"/>
+      <animateTransform attributeName="transform" type="rotate" from="0,360,360" to="360,360,360" dur="2s" repeatCount="indefinite" />
+  </g>
+ </g>
+</svg>

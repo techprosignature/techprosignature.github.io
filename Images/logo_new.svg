@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<svg width="720" height="720" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <title>Logo</title>
+ <defs>
+  <symbol id="svg_4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <defs>
+    <clipPath id="svg_3">
+     <path clip-rule="evenodd" d="m214,214l117,0l0,117l-117,0l0,-117z" fill-rule="evenodd" id="svg_7"/>
+    </clipPath>
+   </defs>
+   <g clip-path="url(#svg_3)" id="svg_8" transform="translate(-214 -214)">
+    <path d="m264.36,291.502c-10.648,-4.302 -15.84,-16.533 -11.538,-27.181c4.302,-10.648 16.533,-15.84 27.181,-11.538c10.648,4.302 15.84,16.534 11.538,27.182c-4.302,10.647 -16.534,15.839 -27.181,11.537zm56.269,-13.86c0.466,-3.94 0.383,-7.915 -0.153,-11.697l8.922,-10.47l-5.481,-12.912l-13.729,-0.855c-2.51,-3.078 -5.311,-5.899 -8.469,-8.301l-0.923,-13.509l-12.906,-5.215l-10.209,9.012c-3.941,-0.466 -7.915,-0.383 -11.697,0.153l-10.471,-8.921l-12.911,5.48l-0.855,13.729c-3.078,2.51 -5.899,5.311 -8.301,8.469l-13.509,0.923l-5.215,12.906l9.012,10.209c-0.466,3.941 -0.383,7.915 0.153,11.698l-8.922,10.47l5.481,12.911l13.729,0.855c2.51,3.079 5.311,5.899 8.469,8.301l1.084,13.575l12.906,5.214l10.21,-9.011c3.94,0.466 7.914,0.382 11.697,-0.154l10.47,8.922l12.911,-5.48l0.855,-13.73c3.079,-2.509 5.899,-5.31 8.301,-8.469l13.575,-1.083l5.214,-12.907l-9.238,-10.113z" fill="#FFFFFF" fill-rule="evenodd" id="svg_9"/>
+   </g>
+  </symbol>
+  <linearGradient id="svg_27" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#25ff88" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#00b050" stop-opacity="0.992188"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="360" cy="360" fill="#000000" fill-opacity="0" id="svg_32" r="352.5" stroke="url(#svg_27)" stroke-width="15"/>
+  <g class="layer" id="svg_2">
+   <rect fill="#00b050" height="110" id="svg_12" rx="15" ry="15" stroke="#00b050" width="380" x="170" y="440"/>
+   <rect fill="#00ff88" height="110" id="svg_10" rx="15" ry="15" stroke="#00ff88" width="380" x="170" y="170"/>
+   <g id="svg_1"/>
+   <g id="svg_6"/>
+   <rect fill="#00e575" height="95" id="svg_13" stroke="#00e575" width="380" x="170" y="263"/>
+   <rect fill="#00ff88" height="20" id="svg_17" rx="10" ry="10" stroke="#00ff88" width="70" x="539" y="210"/>
+   <rect fill="#00e575" height="20" id="svg_11" rx="10" ry="10" stroke="#00e575" width="70" x="539" y="305"/>
+   <rect fill="#00ca63" height="20" id="svg_15" rx="10" ry="10" stroke="#00ca63" width="70" x="539" y="400"/>
+   <rect fill="#00b050" height="20" id="svg_16" rx="10" ry="10" stroke="#00b050" width="70" x="539" y="485"/>
+   <rect fill="#00b050" height="20" id="svg_18" rx="10" ry="10" stroke="#00b050" width="70" x="111" y="485"/>
+   <rect fill="#00ca63" height="20" id="svg_19" rx="10" ry="10" stroke="#00ca63" width="70" x="111" y="400"/>
+   <rect fill="#00e575" height="20" id="svg_20" rx="10" ry="10" stroke="#00e575" width="70" x="111" y="305"/>
+   <rect fill="#00ff88" height="20" id="svg_21" rx="10" ry="10" stroke="#00ff88" width="70" x="111" y="210"/>
+   <rect fill="#00ff88" height="70" id="svg_22" rx="10" ry="10" stroke="#00ff88" width="20" x="210" y="111"/>
+   <rect fill="#00ff88" height="70" id="svg_23" rx="10" ry="10" stroke="#00ff88" width="20" x="305" y="111"/>
+   <rect fill="#00ff88" height="70" id="svg_24" rx="10" ry="10" stroke="#00ff88" width="20" x="400" y="111"/>
+   <rect fill="#00ff88" height="70" id="svg_25" rx="10" ry="10" stroke="#00ff88" width="20" x="485" y="111"/>
+   <rect fill="#00b050" height="70" id="svg_26" rx="10" ry="10" stroke="#00b050" width="20" x="210" y="539"/>
+   <rect fill="#00ca63" height="95" id="svg_14" stroke="#00ca63" width="380" x="170" y="358"/>
+   <use id="svg_5" transform="matrix(2 0 0 2 87.582 -92.244)" x="77.91448" xlink:href="#svg_4" y="167.94698"/>
+   <rect fill="#00b050" height="70" id="svg_28" rx="10" ry="10" stroke="#00b050" width="20" x="305" y="539"/>
+   <rect fill="#00b050" height="70" id="svg_29" rx="10" ry="10" stroke="#00b050" width="20" x="400" y="539"/>
+   <rect fill="#00b050" height="70" id="svg_30" rx="10" ry="10" stroke="#00b050" width="20" x="485" y="539"/>
+  </g>
+ </g>
+</svg>
