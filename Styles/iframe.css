@@ -1,0 +1,68 @@
+/* Layout effects for compatibility with main page */
+html{
+    backdrop-filter: blur(10px);
+    overflow: hidden;
+    filter: drop-shadow(2px 4px 6px black);
+    width: 100%;
+}
+body{
+    position:absolute;
+    top: 0;
+    bottom: 0;
+    overflow: auto;
+    width: 100%;
+    height: auto;
+}
+/* TechPro Services header */
+h1{
+    font-size: 50px;
+    background: url("../Images/logo_new.svg") no-repeat;
+    background-size: contain;
+    width: fit-content;
+    padding-left: 75px;
+    margin: auto;
+    margin-top: 15px;
+}
+h2{
+    font-style: italic;
+    padding: 15px;
+    padding-left: 0;
+}
+.Block{
+    margin: 15px;
+    padding: 15px;
+    background: #25ff88c4;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+.Block p:first-child{
+    font-size: 20px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.internal-card{
+    background-color: #25ff88c4;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px;
+    transition: 0.3s;
+    text-decoration: none;
+    color: white;
+    min-width: 200px;
+}
+.card{
+    background-color: #25ff88c4;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 15px;
+    transition: 0.3s;
+    text-decoration: none;
+    color: white;
+    min-width: 200px;
+    max-width: 500px;
+}
+.card:hover{
+    transform: translate(0, -15px) scale(1.01);
+}
