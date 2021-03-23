@@ -51,6 +51,7 @@ h2{
     text-decoration: none;
     color: white;
     min-width: 200px;
+    min-height: 100px;
 }
 .card{
     background-color: #25ff88c4;
@@ -65,4 +66,12 @@ h2{
 }
 .card:hover{
     transform: translate(0, -15px) scale(1.01);
+}
+#internal-card-image{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    filter: drop-shadow(2px 4px 6px black);
+    margin-right: 10px;
 }
