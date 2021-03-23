@@ -1,0 +1,84 @@
+<?xml version="1.0"?>
+<svg width="650" height="650" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2"/>
+  </g>
+  <g id="svg_4"/>
+  <g id="svg_5"/>
+  <g id="svg_6"/>
+  <g id="svg_7"/>
+  <g id="svg_8"/>
+  <g id="svg_9"/>
+  <g id="svg_10"/>
+  <g id="svg_11"/>
+  <g id="svg_12"/>
+  <g id="svg_13"/>
+  <g id="svg_14"/>
+  <g id="svg_15"/>
+  <g id="svg_16"/>
+  <g id="svg_17"/>
+  <g id="svg_18"/>
+  <g id="svg_54"/>
+  <g id="svg_55">
+   <path d="m580.952154,273.024008c-0.427,-13.474 -11.307,-24.32 -24.789,-24.781l-3.55,-0.043c-8.277,0 -31.258,0.802 -59.674,6.332c-5.086,-38.4 -15.386,-65.664 -16.239,-67.84c-2.526,-6.511 -7.612,-11.699 -14.063,-14.37c-3.14,-1.297 -6.468,-1.946 -9.796,-1.946c-3.516,0 -7.023,0.725 -10.308,2.167c-1.877,0.828 -22.554,10.146 -48.35,28.305c-22.605,-43.008 -48.759,-70.733 -50.679,-72.738c-4.838,-5.052 -11.52,-7.902 -18.5,-7.902c-6.98,0 -13.662,2.85 -18.492,7.893c-1.92,2.005 -28.109,29.773 -50.722,72.823c-25.737,-18.108 -46.438,-27.563 -48.307,-28.39c-3.285,-1.442 -6.793,-2.167 -10.308,-2.167c-3.328,0 -6.656,0.648 -9.796,1.946c-6.451,2.671 -11.529,7.868 -14.063,14.37c-0.845,2.176 -11.145,29.431 -16.23,67.84c-28.433,-5.538 -51.405,-6.323 -59.682,-6.323l-3.567,0.043c-13.474,0.461 -24.363,11.307 -24.789,24.781c-0.154,4.796 -2.876,118.349 67.746,188.979c64.521,64.521 165.769,67.789 185.412,67.789l2.628,-0.034c0.051,0 0.102,0.034 0.154,0.034c0.051,0 0.102,-0.034 0.154,-0.034l2.628,0.034c19.644,0 120.892,-3.268 185.412,-67.789c70.645,-70.622 67.923,-184.175 67.77,-188.979zm-128.111,-77.056c0,0 10.257,26.863 14.942,64.563c-14.831,4.156 -30.242,9.737 -45.542,17.203c-3.968,-19.055 -9.916,-36.915 -16.922,-53.248c26.146,-18.944 47.522,-28.518 47.522,-28.518zm-255.676,0c0,0 21.376,9.523 47.539,28.467c-7.023,16.384 -12.996,34.313 -16.964,53.436c-15.3,-7.467 -30.686,-13.133 -45.525,-17.297c4.684,-37.717 14.95,-64.606 14.95,-64.606zm-42.257,247.936c-63.608,-63.607 -60.271,-170.069 -60.271,-170.069s0.964,-0.026 2.756,-0.026c13.414,0 73.199,2.133 126.182,30.677c-0.614,6.733 -0.973,13.568 -0.973,20.514c0,78.805 42.769,145.374 67.268,177.075c-36.701,-4.36 -94.471,-17.68 -134.962,-58.171zm170.658,59.691c-0.495,-0.162 -0.981,-0.316 -1.613,-0.546c-9.011,-9.822 -75.75,-85.76 -75.75,-178.048c0,-98.97 76.8,-179.2 76.8,-179.2s76.8,80.23 76.8,179.2c0,94.967 -70.52,172.467 -76.237,178.594zm169.54,-59.691c-40.491,40.491 -98.261,53.811 -134.963,58.172c24.491,-31.701 67.26,-98.27 67.26,-177.075c0,-6.989 -0.358,-13.867 -0.99,-20.642c52.983,-28.518 112.794,-30.558 126.199,-30.558c1.792,0 2.756,0.026 2.756,0.026s3.337,106.47 -60.262,170.077z" fill="url(#svg_22)" id="svg_3" stroke="url(#svg_19)"/>
+   <use id="svg_53" transform="matrix(0.237038 0 0 0.237038 0 0)" x="1011.080075" xlink:href="#svg_52" y="1011.087884"/>
+  </g>
+  <ellipse cx="325" cy="325" fill="#000000" fill-opacity="0" id="svg_56" rx="300" ry="300" stroke="url(#svg_19)" stroke-width="10"/>
+ </g>
+ <defs>
+  <linearGradient id="svg_19" x1="0" x2="0" y1="0" y2="1">
+   <stop offset="0" stop-color="#25ff88" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#f4bfc7" stop-opacity="0.988281"/>
+  </linearGradient>
+  <linearGradient id="svg_22" x1="0" x2="0" y1="0" y2="0.833767">
+   <stop offset="0" stop-color="#25ff88" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#f4bfc7" stop-opacity="0.996094"/>
+  </linearGradient>
+  <symbol height="720" id="svg_52" width="720" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+   <title>Logo</title>
+   <defs>
+    <symbol id="svg_28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+     <defs>
+      <clipPath id="svg_49">
+       <path clip-rule="evenodd" d="m214,214l117,0l0,117l-117,0l0,-117z" fill-rule="evenodd" id="svg_51"/>
+      </clipPath>
+     </defs>
+     <g clip-path="url(#svg_49)" id="svg_48" transform="translate(-214 -214)">
+      <path d="m264.36,291.502c-10.648,-4.302 -15.84,-16.533 -11.538,-27.181c4.302,-10.648 16.533,-15.84 27.181,-11.538c10.648,4.302 15.84,16.534 11.538,27.182c-4.302,10.647 -16.534,15.839 -27.181,11.537zm56.269,-13.86c0.466,-3.94 0.383,-7.915 -0.153,-11.697l8.922,-10.47l-5.481,-12.912l-13.729,-0.855c-2.51,-3.078 -5.311,-5.899 -8.469,-8.301l-0.923,-13.509l-12.906,-5.215l-10.209,9.012c-3.941,-0.466 -7.915,-0.383 -11.697,0.153l-10.471,-8.921l-12.911,5.48l-0.855,13.729c-3.078,2.51 -5.899,5.311 -8.301,8.469l-13.509,0.923l-5.215,12.906l9.012,10.209c-0.466,3.941 -0.383,7.915 0.153,11.698l-8.922,10.47l5.481,12.911l13.729,0.855c2.51,3.079 5.311,5.899 8.469,8.301l1.084,13.575l12.906,5.214l10.21,-9.011c3.94,0.466 7.914,0.382 11.697,-0.154l10.47,8.922l12.911,-5.48l0.855,-13.73c3.079,-2.509 5.899,-5.31 8.301,-8.469l13.575,-1.083l5.214,-12.907l-9.238,-10.113z" fill="#FFFFFF" fill-rule="evenodd" id="svg_50"/>
+     </g>
+    </symbol>
+   </defs>
+   <g class="layer">
+    <title>Layer 1</title>
+    <g class="layer" id="svg_23">
+     <rect fill="#f4bfc7" height="110" id="svg_47" rx="15" ry="15" stroke="#f4bfc7" transform="matrix(1 0 0 1 0 0)" width="380" x="170" y="440"/>
+     <rect fill="#00ff88" height="110" id="svg_46" rx="15" ry="15" stroke="#00ff88" width="380" x="170" y="170"/>
+     <g id="svg_45"/>
+     <g id="svg_44"/>
+     <rect fill="#8ddfa8" height="95" id="svg_43" stroke="#8ddfa8" transform="matrix(1 0 0 1 0 0)" width="380" x="170" y="263"/>
+     <rect fill="#00ff88" height="20" id="svg_42" rx="10" ry="10" stroke="#00ff88" width="70" x="539" y="210"/>
+     <rect fill="#8ddfa8" height="20" id="svg_41" rx="10" ry="10" stroke="#8ddfa8" transform="matrix(1 0 0 1 0 0)" width="70" x="539" y="305"/>
+     <rect fill="#c0cfb7" height="20" id="svg_40" rx="10" ry="10" stroke="#c0cfb7" transform="matrix(1 0 0 1 0 0)" width="70" x="539" y="400"/>
+     <rect fill="#f4bfc7" height="20" id="svg_39" rx="10" ry="10" stroke="#f4bfc7" transform="matrix(1 0 0 1 0 0)" width="70" x="539" y="485"/>
+     <rect fill="#f4bfc7" height="20" id="svg_38" rx="10" ry="10" stroke="#f4bfc7" width="70" x="111" y="485"/>
+     <rect fill="#c0cfb7" height="20" id="svg_37" rx="10" ry="10" stroke="#c0cfb7" width="70" x="111" y="400"/>
+     <rect fill="#8ddfa8" height="20" id="svg_36" rx="10" ry="10" stroke="#8ddfa8" width="70" x="111" y="305"/>
+     <rect fill="#00ff88" height="20" id="svg_35" rx="10" ry="10" stroke="#00ff88" width="70" x="111" y="210"/>
+     <rect fill="#00ff88" height="70" id="svg_34" rx="10" ry="10" stroke="#00ff88" width="20" x="210" y="111"/>
+     <rect fill="#00ff88" height="70" id="svg_33" rx="10" ry="10" stroke="#00ff88" width="20" x="305" y="111"/>
+     <rect fill="#00ff88" height="70" id="svg_32" rx="10" ry="10" stroke="#00ff88" width="20" x="400" y="111"/>
+     <rect fill="#00ff88" height="70" id="svg_31" rx="10" ry="10" stroke="#00ff88" width="20" x="485" y="111"/>
+     <rect fill="#f4bfc7" height="70" id="svg_30" rx="10" ry="10" stroke="#f4bfc7" transform="matrix(1 0 0 1 0 0)" width="20" x="210" y="539"/>
+     <rect fill="#c0cfb7" height="95" id="svg_29" stroke="#c0cfb7" transform="matrix(1 0 0 1 0 0)" width="380" x="170" y="358"/>
+     <use id="svg_27" transform="matrix(1 0 0 1 0 0) matrix(2 0 0 2 87.582 -92.244)" x="77.91448" xlink:href="#svg_28" y="167.94698"/>
+     <rect fill="#f4bfc7" height="70" id="svg_26" rx="10" ry="10" stroke="#f4bfc7" transform="matrix(1 0 0 1 0 0)" width="20" x="305" y="539"/>
+     <rect fill="#f4bfc7" height="70" id="svg_25" rx="10" ry="10" stroke="#f4bfc7" transform="matrix(1 0 0 1 0 0)" width="20" x="400" y="539"/>
+     <rect fill="#f4bfc7" height="70" id="svg_24" rx="10" ry="10" stroke="#f4bfc7" transform="matrix(1 0 0 1 0 0)" width="20" x="485" y="539"/>
+    </g>
+   </g>
+  </symbol>
+ </defs>
+</svg>
