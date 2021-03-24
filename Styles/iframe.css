@@ -52,6 +52,11 @@ h2{
     color: white;
     min-width: 200px;
     min-height: 100px;
+    background-position: center;
+}
+.ad-card{
+    font-weight: bold;
+    text-shadow: 0 1px 3px black;
 }
 .card{
     background-color: #25ff88c4;
@@ -72,6 +77,6 @@ h2{
     width: 100px;
     height: 100px;
     background-size: contain;
-    filter: drop-shadow(2px 4px 6px black);
+    filter: drop-shadow(2px 4px 10px black);
     margin-right: 10px;
 }
