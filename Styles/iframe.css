@@ -19,6 +19,7 @@ h1{
     background: url("../Images/logo_new.svg") no-repeat;
     background-size: contain;
     width: fit-content;
+    width: -moz-fit-content;
     padding-left: 75px;
     margin: auto;
     margin-top: 15px;
