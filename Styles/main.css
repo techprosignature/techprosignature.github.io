@@ -12,7 +12,7 @@ body{
     color: white;
 }
 .main{
-    background: url(../Images/green_background.jpg) no-repeat;
+    background: url(../Images/green_background.jpg) center center no-repeat;
     background-size: cover;
 }
 /* navigation bar */
