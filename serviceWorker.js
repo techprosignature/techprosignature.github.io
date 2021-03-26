@@ -3,9 +3,17 @@ self.addEventListener('install', (e) => {
     caches.open('TechPro-Media').then((cache) => cache.addAll([
       '/',
       '/index.html',
+      '/Home.html',
+      '/About.html',
+      '/Resources.html',
+      '/Privacy.html',
       '/Styles/main.css',
       '/Styles/iframe.css',
       '/Images/green_background.jpg',
+      '/Images/BiiAndTechPro.svg',
+      '/Images/logo_animated.svg',
+      'Images/logo_new.svg',
+      'Images/logo_new.png',
       'Scripts/main.js'
     ])),
   );
