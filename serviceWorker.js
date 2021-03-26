@@ -11,7 +11,7 @@ self.addEventListener('install', (e) => {
       '/Images/logo_animated.svg',
       '/Images/logo_new.svg',
       '/Images/logo_new.png',
-      '/Images/Images/DPE.svg',
+      '/Images/DPE.svg',
       '/Images/Curbai.png',
       '/Images/BiiAndTechPro.svg',
       '/Images/green_background.jpg'
