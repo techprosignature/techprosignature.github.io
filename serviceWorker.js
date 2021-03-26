@@ -5,7 +5,8 @@ self.addEventListener('install', (e) => {
       '/index.html',
       '/Styles/main.css',
       '/Styles/iframe.css',
-      '/Images/green_background.jpg'
+      '/Images/green_background.jpg',
+      'Scripts/main.js'
     ])),
   );
 });
