@@ -1,34 +1,27 @@
-const staticService = "techpro-services.github.io";
-const assets = [
-  "/",
-  "index.html",
-  "Home.html",
-  "Resources.html",
-  "About.html",
-  "Styles/main.css",
-  "Styles/iframe.css",
-  "Images/BiiAndTechPro.svg",
-  "Images/Curbai.png",
-  "Images/Imeages/DPE.svg",
-  "Images/green_background.jpg",
-  "Images/logo_animated.svg",
-  "Images/logo_new.svg",
-  "Images/logo_new.png",
-  "Images/TechLabs.svg"
-];
+self.addEventListener('install', (e) => {
+  e.waitUntil(
+    caches.open('TechPro-Media').then((cache) => cache.addAll([
+      '/',
+      '/index.html',
+      '/Home.html',
+      '/Resources.html',
+      '/About.html',
+      '/Styles/main.css',
+      '/Styles/iframe.css',
+      '/Images/logo_animated.svg',
+      '/Images/logo_new.svg',
+      '/Images/logo_new.png',
+      '/Images/Images/DPE.svg',
+      '/Images/Curbai.png',
+      '/Images/BiiAndTechPro.svg',
+      '/Images/green_background.jpg'
+    ])),
+  );
+});
 
-self.addEventListner("install", installEvent => {
-  installEvent.waitUntil(
-    caches.open("staticService").then(cache => {
-      cache.addAll(assets)
-    })
-  )
-})
-
-self.addEventListener("fetch", fetchEvent => {
-  fetchEvent.respondWith(
-    caches.match(fetchEvent.request).then(res => {
-      return res || fetch(fetchEvent.request)
-    })
-  )
-})
+self.addEventListener('fetch', (e) => {
+  console.log(e.request.url);
+  e.respondWith(
+    caches.match(e.request).then((response) => response || fetch(e.request)),
+  );
+});
