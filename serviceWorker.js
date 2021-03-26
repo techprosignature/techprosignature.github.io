@@ -15,7 +15,7 @@ const assets = [
   "Images/logo_new.svg",
   "Images/logo_new.png",
   "Images/TechLabs.svg"
-]
+];
 
 self.addEventListner("install", installEvent => {
   installEvent.waitUntil(
