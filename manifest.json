@@ -16,13 +16,13 @@
      "start_url": "/",
      "background_color": "#25ff88",
      "display": "standalone",
-     "theme_color": "#25ff88"
+     "theme_color": "#25ff88",
      "shortcuts": [
      {
         "name": "TechPro Services Website",
         "short_name": "TechPro Services",
         "description": "A website that quickly links you with TechPro Services supported websites",
-        "url": "/".
+        "url": "/",
         "icons": [{"src": "Images/logo_new.svg", "sizes": "720x720"}]
      }
      ],
