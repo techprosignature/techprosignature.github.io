@@ -12,9 +12,9 @@ self.addEventListener('install', (e) => {
       '/Images/green_background.jpg',
       '/Images/BiiAndTechPro.svg',
       '/Images/logo_animated.svg',
-      'Images/logo_new.svg',
-      'Images/logo_new.png',
-      'Scripts/main.js'
+      '/Images/logo_new.svg',
+      '/Images/logo_new.png',
+      '/Scripts/main.js'
     ])),
   );
 });
