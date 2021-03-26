@@ -1,7 +1,6 @@
 self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('TechPro-Media').then((cache) => cache.addAll([
-      '/',
       '/index.html',
       '/Home.html',
       '/Resources.html',
