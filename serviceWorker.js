@@ -14,7 +14,9 @@ self.addEventListener('install', (e) => {
       '/Images/logo_animated.svg',
       '/Images/logo_new.svg',
       '/Images/logo_new.png',
-      'Images/TechLabs.svg',
+      '/Images/TechLabs.svg',
+      '/Images/Curbai.png',
+      '/Images/DPE.png',
       '/Scripts/main.js',
       '/Fonts/AGENCYR.TTF'
     ])),
