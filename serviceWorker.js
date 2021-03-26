@@ -18,7 +18,8 @@ self.addEventListener('install', (e) => {
       '/Images/Curbai.png',
       '/Images/DPE.png',
       '/Scripts/main.js',
-      '/Fonts/AGENCYR.TTF'
+      '/Fonts/AGENCYR.TTF',
+      'https://techlabsinc.github.io/Images/Circuit%20Blue%20Background.jpg'
     ])),
   );
 });
