@@ -2,9 +2,10 @@ self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open('TechPro-Media').then((cache) => cache.addAll([
       '/',
-      '/index.html'
-      'Styles/main.css',
-      'Styles/iframe.css'
+      '/index.html',
+      '/Styles/main.css',
+      '/Styles/iframe.css',
+      '/Images/green_background.jpg'
     ])),
   );
 });
