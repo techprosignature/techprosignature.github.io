@@ -5,6 +5,7 @@ self.addEventListener('install', (e) => {
       '/index.html',
       '/Home.html',
       '/About.html',
+      '/Projects.html',
       '/Resources.html',
       '/Privacy.html',
       '/Styles/main.css',
