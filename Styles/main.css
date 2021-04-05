@@ -22,6 +22,7 @@ body{
     position: absolute;
     top: 0;
     backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     z-index: -1;
 }
 ul {
@@ -56,6 +57,7 @@ li.dropdown{
     background-color: #00b05050;
     min-width: 160px;
     backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
     transition: 0.3s;
