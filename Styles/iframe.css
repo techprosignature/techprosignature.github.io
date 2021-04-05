@@ -16,14 +16,23 @@ body{
 /* TechPro Services header */
 h1{
     font-size: 50px;
-    background: url("../Images/logo_new.svg") no-repeat;
-    background-size: contain;
+    background: -webkit-linear-gradient(#25ff88, #00b050);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     width: fit-content;
     width: -moz-fit-content;
-    padding-left: 75px;
     margin: auto;
     margin-top: 15px;
     font-family: 'Agency FB';
+}
+h1:before{
+    content: '';
+    background: url("../Images/logo_new.svg") no-repeat;
+    background-size: contain;
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 15px;
 }
 h2{
     font-style: italic;
@@ -43,6 +52,7 @@ h2{
 .container{
     display: flex;
     flex-wrap: wrap;
+    float: left;
 }
 .internal-card{
     background-color: #25ff88c4;
