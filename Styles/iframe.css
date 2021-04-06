@@ -1,6 +1,5 @@
 /* Layout effects for compatibility with main page */
 html{
-    backdrop-filter: blur(10px);
     overflow: hidden;
     filter: drop-shadow(2px 4px 6px black);
     width: 100%;

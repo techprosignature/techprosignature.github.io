@@ -77,6 +77,8 @@ li.dropdown{
 }
 /* iframe */
 iframe{
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     border: none;
     height: Calc(100% - 48px);
     width: 100%;
