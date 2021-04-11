@@ -18,6 +18,8 @@ self.addEventListener('install', (e) => {
       '/Images/TechLabs.svg',
       '/Images/Curbai.png',
       '/Images/DPE.png',
+      '/Images/RedTails.png',
+      '/Images/TechProAndRedTails.svg',
       '/Scripts/main.js',
       '/Fonts/AGENCYR.TTF',
       'https://techlabsinc.github.io/Images/Circuit%20Blue%20Background.jpg'
