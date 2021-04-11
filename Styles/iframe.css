@@ -90,4 +90,6 @@ h2{
     background-size: contain;
     filter: drop-shadow(2px 4px 10px black);
     margin-right: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
 }
