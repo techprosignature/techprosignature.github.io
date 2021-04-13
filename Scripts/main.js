@@ -1,3 +1,4 @@
+var SW;
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", function() {
     navigator.serviceWorker
@@ -10,7 +11,8 @@ function ContentHandler(event){
   const message = event.data.value;
   switch (message) {
       case 'ClearData':
-          console.log("Reload");
+          console.log("ClearData");
+          navigator.serviceWorker.getRegistrations().then( function(registrations) { for(let registration of registrations) { registration.unregister(); } }); 
           caches.delete("TechPro-Media");
           window.location.reload(true);
           break;
