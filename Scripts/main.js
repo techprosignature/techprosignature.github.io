@@ -15,11 +15,11 @@ function ContentHandler(event){
           navigator.serviceWorker.getRegistrations().then( function(registrations) { for(let registration of registrations) { registration.unregister(); } }); 
           caches.open("TechPro-Media")
             .then(cache => cache.keys()
-            .then(keys => {
-              for (let key of keys) {
-                cache.delete(key)
-    }
-  }));
+              .then(keys => {
+                for (let key of keys) {
+                  cache.delete(key)
+                }
+              }));
           window.location.reload(true);
           break;
   }
