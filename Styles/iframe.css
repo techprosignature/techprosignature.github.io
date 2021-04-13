@@ -93,3 +93,18 @@ h2{
     background-repeat: no-repeat;
     background-position: center;
 }
+button{
+    padding: 10px;
+    font-weight: bold;
+    background-color: #25ff88;
+    border: 1px #00b050;
+    cursor: pointer;
+    transition: 0.3s;
+}
+button:hover{
+    filter: drop-shadow(2px 4px 6px black);
+    transform: translate(0, -15px);
+}
+button:active{
+    background: #fff;
+}
