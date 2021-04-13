@@ -13,7 +13,13 @@ function ContentHandler(event){
       case 'ClearData':
           console.log("ClearData");
           navigator.serviceWorker.getRegistrations().then( function(registrations) { for(let registration of registrations) { registration.unregister(); } }); 
-          caches.delete("TechPro-Media");
+          caches.open("TechPro-Media")
+            .then(cache => cache.keys()
+            .then(keys => {
+              for (let key of keys) {
+                cache.delete(key)
+    }
+  }));
           window.location.reload(true);
           break;
   }
