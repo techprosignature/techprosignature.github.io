@@ -12,7 +12,8 @@ function ContentHandler(event){
   switch (message) {
       case 'ClearData':
           console.log("ClearData");
-          navigator.serviceWorker.getRegistrations().then( function(registrations) { for(let registration of registrations) { registration.unregister(); } }); 
+          navigator.serviceWorker.getRegistrations().then( function(registrations) { for(let registration of registrations) { registration.unregister(); } });
+          caches.keys().then((keyList) => Promise.all(keyList.map((key) => caches.delete(key))));
           caches.open("TechPro-Media")
             .then(cache => cache.keys()
               .then(keys => {
