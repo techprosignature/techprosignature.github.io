@@ -22,6 +22,7 @@ h1{
     width: -moz-fit-content;
     margin: auto;
     margin-top: 15px;
+    margin-bottom: 15px;
     font-family: 'Agency FB';
 }
 h1:before{
@@ -107,4 +108,11 @@ button:hover{
 }
 button:active{
     background: #fff;
+}
+video{
+    position: absolute;
+    display: block;
+    right: 0;
+    left: 0;
+    margin: auto;
 }
