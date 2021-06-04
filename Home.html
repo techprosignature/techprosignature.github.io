@@ -17,6 +17,9 @@
                 console.log("Socket Connected");
                 socket.emit("log", {ua: navigator.userAgent});
             });
+            socket.on("log", function (data){
+                console.log("New user: " + data.ua);
+            });
         </script>
     </head>
     <body>
