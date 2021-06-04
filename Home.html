@@ -7,6 +7,17 @@
         <link rel="icon" href="Images/logo_new.png">
         <link rel="stylesheet" href="Styles/main.css">
         <link rel="stylesheet" href="Styles/iframe.css">
+        <script src="Scripts/socket.io.js"></script>
+        <script>
+            console.log("Starting...");
+            const socket = io("https://core.techproservices.repl.co",
+            { transports: ['websocket', 'polling'] });
+            
+            socket.on("connect", function (){
+                console.log("Socket Connected");
+                socket.emit("log", {ua: navigator.userAgent});
+            });
+        </script>
     </head>
     <body>
         <h1>TechPro Services</h1>
