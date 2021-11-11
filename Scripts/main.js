@@ -7,6 +7,17 @@ if ("serviceWorker" in navigator) {
       .catch(err => console.log("service worker not registered", err))
   })
 }
+var iframe = document.getElementById("content");
+var hash = window.location.hash.split('#')[1];
+if(hash != ''){
+  console.log(hash);
+  iframe.src = hash;
+}
+window.addEventListener('hashchange',function(){
+  hash = window.location.hash.split("#")[1];
+  console.log(hash);
+  iframe.src = hash;
+})
 function ContentHandler(event){
   const message = event.data.value;
   switch (message) {
