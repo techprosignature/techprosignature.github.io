@@ -12,19 +12,10 @@ body{
     color: white;
 }
 .main{
-    background: url(../Images/green_background.jpg) center center no-repeat;
+    background: url(../Images/green_background_blurred.jpg) center center no-repeat;
     background-size: cover;
 }
 /* navigation bar */
-.blur{
-    width: 100%;
-    height: 50px;
-    position: absolute;
-    top: 0;
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
-    z-index: -1;
-}
 ul {
     list-style-type: none;
     margin: 0;
@@ -77,8 +68,6 @@ li.dropdown{
 }
 /* iframe */
 iframe{
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
     border: none;
     height: Calc(100% - 48px);
     width: 100%;

@@ -9,7 +9,7 @@ if ("serviceWorker" in navigator) {
 }
 var iframe = document.getElementById("content");
 var hash = window.location.hash.split('#')[1];
-if(hash != ''){
+if(hash != '' & hash != undefined){
   console.log(hash);
   iframe.src = hash;
 }

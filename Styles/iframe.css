@@ -78,8 +78,7 @@ h2{
     transition: 0.3s;
     text-decoration: none;
     color: white;
-    min-width: 200px;
-    max-width: 500px;
+    width: 300px;
 }
 .card:hover{
     transform: translate(0, -15px) scale(1.01);
